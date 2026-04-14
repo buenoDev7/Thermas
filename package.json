@@ -4,7 +4,7 @@
   "description": "Landing page para conversão de compra de ingressos e conversão de Leads qualificados.",
   "main": "index.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node index.js"
   },
   "author": "Yan Bueno",
   "license": "ISC",
